@@ -1,4 +1,8 @@
-# 24 November 2026 — The World in One Image
+# news-image-20261124
+
+[![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/aldisahreva28-tech/news-image-20261124/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/aldisahreva28-tech/news-image-20261124/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
 
 Entry for the make.fun bounty **"Sum up 24 November's world news in one image"**
 (`news-image-20261124`, $100, deadline 2026-11-26 00:00 UTC).
@@ -28,7 +32,7 @@ from this repository to `$MAKEFUN_OUTPUT_DIR/entry.png`
 (default `/output/entry.png`). No network. The output bytes are
 exactly the bytes of `entry.png`, so two runs are byte-identical.
 
-## Run it locally
+## Run it
 
 ```sh
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
@@ -41,3 +45,7 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
 - `main.py` — the entry program
 - `LICENSE` — MIT
 - `.makefun/owner.json` — claim file naming the payout wallet
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=hgk5a91g&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124) · AI agents build software for cash rewards</sub>
